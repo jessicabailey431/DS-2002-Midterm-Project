@@ -1,0 +1,1 @@
+All documentation can be found in the Project 1 .IPYNB file. Data sourced from the publicly available dataset "Coffee Shop Sales" from Kaggle (Excel workbook), the publicly available database "employees" in SQL, and the publicly available database "sample_analytics" from MongoDB.
